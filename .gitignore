@@ -1,1 +1,4 @@
 *.png
+/images
+/picture/*
+!/picture/ *txt
